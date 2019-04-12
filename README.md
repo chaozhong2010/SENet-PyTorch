@@ -30,8 +30,8 @@ This code takes NWPU-RESISC45 dataset as example. You can download NWPU-RESISC45
 		   ├── ['.jpg', '.jpeg', '.png', '.ppm', '.bmp', '.pgm']
 		   ├──    ...
 		   ├── ['.jpg', '.jpeg', '.png', '.ppm', '.bmp', '.pgm']
-		├──  ...
-		├──wetland
+	    ├──  ...
+	    ├──wetland
 	
 ```
 
